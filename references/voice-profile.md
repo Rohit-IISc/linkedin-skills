@@ -17,7 +17,7 @@ ceiling.
 
 - filled: yes
 - source: state/voice-profile.md, Rohit-IISc/linkedin_automate
-- updated: 2026-09-13
+- updated: 2026-09-13 (audience confirmed global)
 
 ## 1. Voice fingerprint
 
@@ -45,10 +45,15 @@ ceiling.
   non-specialist understands it. The value added is **translation**, not opinion
   and not aggregation. Credibility comes from the quality of the explanation,
   never from a title or an employer, and neither is ever named in a post.
-- Your audience (ICP): [PLACEHOLDER: not supplied. Working assumption is
+- Your audience: **global, deliberately not India-only.** Confirmed by Rohit
+  13 Sep 2026: he wants a following that still works if he moves abroad, so the
+  audience is every region at once, India, UK, Europe and the US. By role:
   engineers, ML and data practitioners, and technically literate product and
   leadership people who follow AI closely but do not build recommender systems
-  themselves. Confirm or replace; do not treat as given.]
+  themselves.
+  This is a writing constraint, not just a scheduling one. Do not assume Indian
+  context, Indian examples or Indian business hours in a post. If an example
+  only lands for one region, it is the wrong example.
 - Your content pillars: recommender systems; GenAI infrastructure and its
   economics; frontier model releases, taken as the mechanism inside the release
   or the pricing and access around it rather than the release itself; applied ML
